@@ -1,6 +1,0 @@
-# codewars
-# codewars
-# codewars
-# codewars
-# codewars
-# codewars
